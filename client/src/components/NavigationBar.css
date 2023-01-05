@@ -1,0 +1,29 @@
+.customNav{
+    background-color: #222831;
+}
+
+.bColor{
+    background-color: #222831 !important;
+    border-color: #FFD369 !important;
+    color: #FFD369 !important;
+
+}
+
+.bColor:hover{
+    background-color: #FFD369 !important;
+    border-color: #FFD369 !important;
+    color: #222831 !important;
+}
+
+.bReverseColor{
+    background-color: #FFD369 !important;
+    border-color: #FFD369 !important;
+    color: #222831 !important;
+
+}
+
+.bReverseColor:hover{
+    background-color: #222831 !important;
+    border-color: #FFD369 !important;
+    color: #FFD369 !important;
+}
